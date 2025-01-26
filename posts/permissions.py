@@ -1,20 +1,14 @@
-from rest_framework import permissions
+from rest_framework.permissions import BasePermission, SAFE_METHODS
 
 
-class IsAuthorOrReadOnly(permissions.BasePermission):
+class IsAdminOrReadOnly(BasePermission):
     """
-    Custom permission to only allow authors of an object to edit or delete it.
+    Разрешает чтение всем пользователям.
+    Изменение доступно только администраторам.
     """
-
     def has_permission(self, request, view):
-        # Разрешаем только авторизованным пользователям добавлять новые карты
-        if request.method in permissions.SAFE_METHODS:
+        # Чтение разрешено всем
+        if request.method in SAFE_METHODS:
             return True
-        return request.user and request.user.is_authenticated
-
-    def has_object_permission(self, request, view, obj):
-        # Разрешаем чтение всем
-        if request.method in permissions.SAFE_METHODS:
-            return True
-        # Разрешаем редактирование и удаление только владельцу
-        return obj.author == request.user
+        # Изменение только для администраторов
+        return request.user and request.user.is_staff
