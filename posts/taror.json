@@ -1,0 +1,453 @@
+{
+    "description": "Tarot cards and basic information about them",
+    "cards": [
+        {
+          "name": "Ace of Wands",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Ace of Wands symbolizes new beginnings, inspiration, and potential. It represents the spark of creativity and the start of a new project.",
+          "image_path": "tarotcards/AceOfWands.jpeg"
+        },
+        {
+          "name": "Two of Wands",
+          "number": "2",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Two of Wands represents planning, progress, and future possibilities. It signifies the importance of setting goals and looking ahead.",
+          "image_path": "tarotcards/TwoOfWands.jpeg"
+        },
+        {
+          "name": "Three of Wands",
+          "number": "3",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Three of Wands symbolizes expansion, foresight, and exploration. It represents the growth that comes from new opportunities and adventures.",
+          "image_path": "tarotcards/ThreeOfWands.jpeg"
+        },
+        {
+          "name": "Four of Wands",
+          "number": "4",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Four of Wands represents celebration, harmony, and homecoming. It signifies a period of stability and joy, often in the context of relationships.",
+          "image_path": "tarotcards/FourOfWands.jpeg"
+        },
+        {
+          "name": "Five of Wands",
+          "number": "5",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Five of Wands symbolizes competition, conflict, and challenges. It represents the struggle for power and the importance of collaboration.",
+          "image_path": "tarotcards/FiveOfWands.jpeg"
+        },
+        {
+          "name": "Six of Wands",
+          "number": "6",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Six of Wands represents victory, recognition, and success. It signifies the achievement of goals and the respect of others.",
+          "image_path": "tarotcards/SixOfWands.jpeg"
+        },
+        {
+          "name": "Seven of Wands",
+          "number": "7",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Seven of Wands symbolizes perseverance, defense, and maintaining control. It represents standing up for oneself and facing challenges head-on.",
+          "image_path": "tarotcards/SevenOfWands.jpeg"
+        },
+        {
+          "name": "Eight of Wands",
+          "number": "8",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Eight of Wands represents speed, action, and swift progress. It signifies movement and the rapid unfolding of events.",
+          "image_path": "tarotcards/EightOfWands.jpeg"
+        },
+        {
+          "name": "Nine of Wands",
+          "number": "9",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Nine of Wands symbolizes resilience, endurance, and courage. It represents the strength to push through adversity and the importance of perseverance.",
+          "image_path": "tarotcards/NineOfWands.jpeg"
+        },
+        {
+          "name": "Ten of Wands",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Ten of Wands represents burden, responsibility, and hard work. It signifies the need to delegate or let go of unnecessary burdens.",
+          "image_path": "tarotcards/TenOfWands.jpeg"
+        },
+        {
+          "name": "Page of Wands",
+          "number": "11",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Page of Wands symbolizes enthusiasm, exploration, and a thirst for adventure. It represents the desire to pursue passions and creative endeavors.",
+          "image_path": "tarotcards/PageOfWands.jpeg"
+        },
+        {
+          "name": "Knight of Wands",
+          "number": "12",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Knight of Wands represents action, adventure, and impulsiveness. It signifies a dynamic energy and the pursuit of new experiences.",
+          "image_path": "tarotcards/KnightOfWands.jpeg"
+        },
+        {
+          "name": "Queen of Wands",
+          "number": "13",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The Queen of Wands symbolizes confidence, passion, and charisma. She represents a nurturing and supportive energy that inspires others.",
+          "image_path": "tarotcards/QueenOfWands.jpeg"
+        },
+        {
+          "name": "King of Wands",
+          "number": "14",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "description": "The King of Wands represents leadership, vision, and entrepreneurship. He signifies the ability to inspire and motivate others.",
+          "image_path": "tarotcards/KingOfWands.jpeg"
+        },
+        {
+          "name": "Ace of Cups",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Ace of Cups symbolizes love, compassion, and emotional fulfillment. It represents new beginnings in relationships and creative expression.",
+          "image_path": "tarotcards/AceOfCups.jpeg"
+        },
+        {
+          "name": "Two of Cups",
+          "number": "2",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Two of Cups represents partnership, unity, and connection. It signifies mutual respect and deep emotional bonds.",
+          "image_path": "tarotcards/TwoOfCups.jpeg"
+        },
+        {
+          "name": "Three of Cups",
+          "number": "3",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Three of Cups symbolizes celebration, friendship, and community. It represents joyful gatherings and shared experiences.",
+          "image_path": "tarotcards/ThreeOfCups.jpeg"
+        },
+        {
+          "name": "Four of Cups",
+          "number": "4",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Four of Cups represents contemplation, apathy, and reevaluation. It signifies a need to reflect on one's feelings and desires.",
+          "image_path": "tarotcards/FourOfCups.jpeg"
+        },
+        {
+          "name": "Five of Cups",
+          "number": "5",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Five of Cups symbolizes loss, grief, and regret. It represents the importance of acknowledging emotions while also recognizing what remains.",
+          "image_path": "tarotcards/FiveOfCups.jpeg"
+        },
+        {
+          "name": "Six of Cups",
+          "number": "6",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Six of Cups represents nostalgia, childhood, and memories. It signifies the importance of reconnecting with the past and embracing joy.",
+          "image_path": "tarotcards/SixOfCups.jpeg"
+        },
+        {
+          "name": "Seven of Cups",
+          "number": "7",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Seven of Cups symbolizes choices, fantasies, and illusions. It represents the need to discern between dreams and reality.",
+          "image_path": "tarotcards/SevenOfCups.jpeg"
+        },
+        {
+          "name": "Eight of Cups",
+          "number": "8",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Eight of Cups represents walking away, letting go, and seeking deeper meaning. It signifies a journey towards emotional fulfillment.",
+          "image_path": "tarotcards/EightOfCups.jpeg"
+        },
+        {
+          "name": "Nine of Cups",
+          "number": "9",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Nine of Cups symbolizes contentment, satisfaction, and emotional stability. It represents the realization of desires and inner peace.",
+          "image_path": "tarotcards/NineOfCups.jpeg"
+        },
+        {
+          "name": "Ten of Cups",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Ten of Cups represents happiness, harmony, and emotional fulfillment. It signifies the achievement of lasting love and family connections.",
+          "image_path": "tarotcards/TenOfCups.jpeg"
+        },
+        {
+          "name": "Page of Cups",
+          "number": "11",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Page of Cups symbolizes creativity, intuition, and emotional exploration. It represents the willingness to embrace new feelings and experiences.",
+          "image_path": "tarotcards/PageOfCups.jpeg"
+        },
+        {
+          "name": "Knight of Cups",
+          "number": "12",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Knight of Cups represents romance, charm, and idealism. It signifies the pursuit of dreams and following one's heart.",
+          "image_path": "tarotcards/KnightOfCups.jpeg"
+        },
+        {
+          "name": "Queen of Cups",
+          "number": "13",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The Queen of Cups symbolizes empathy, compassion, and emotional depth. She represents nurturing and the importance of listening to intuition.",
+          "image_path": "tarotcards/QueenOfCups.jpeg"
+        },
+        {
+          "name": "King of Cups",
+          "number": "14",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "description": "The King of Cups represents emotional maturity, wisdom, and balance. He signifies the ability to manage feelings and support others.",
+          "image_path": "tarotcards/KingOfCups.jpeg"
+        },
+        {
+          "name": "Ace of Swords",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Ace of Swords symbolizes clarity, truth, and new ideas. It represents the power of the mind and the importance of clear communication.",
+          "image_path": "tarotcards/AceOfSwords.jpeg"
+        },
+        {
+          "name": "Two of Swords",
+          "number": "2",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Two of Swords represents indecision, choices, and blocked emotions. It signifies the need to confront dilemmas and find balance.",
+          "image_path": "tarotcards/TwoOfSwords.jpeg"
+        },
+        {
+          "name": "Three of Swords",
+          "number": "3",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Three of Swords symbolizes heartbreak, sorrow, and emotional pain. It represents the need for healing and acceptance.",
+          "image_path": "tarotcards/ThreeOfSwords.jpeg"
+        },
+        {
+          "name": "Four of Swords",
+          "number": "4",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Four of Swords represents rest, contemplation, and recovery. It signifies the importance of taking time for reflection and healing.",
+          "image_path": "tarotcards/FourOfSwords.jpeg"
+        },
+        {
+          "name": "Five of Swords",
+          "number": "5",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Five of Swords symbolizes conflict, defeat, and tension. It represents the consequences of winning at all costs.",
+          "image_path": "tarotcards/FiveOfSwords.jpeg"
+        },
+        {
+          "name": "Six of Swords",
+          "number": "6",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Six of Swords represents transition, movement, and journey. It signifies moving away from difficulty towards a better situation.",
+          "image_path": "tarotcards/SixOfSwords.jpeg"
+        },
+        {
+          "name": "Seven of Swords",
+          "number": "7",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Seven of Swords symbolizes deception, stealth, and strategy. It represents the need for caution and the importance of honesty.",
+          "image_path": "tarotcards/SevenOfSwords.jpeg"
+        },
+        {
+          "name": "Eight of Swords",
+          "number": "8",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Eight of Swords represents restriction, confusion, and feeling trapped. It signifies the need to recognize one's power and potential.",
+          "image_path": "tarotcards/EightOfSwords.jpeg"
+        },
+        {
+          "name": "Nine of Swords",
+          "number": "9",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Nine of Swords symbolizes anxiety, worry, and sleepless nights. It represents the mental burden of fears and doubts.",
+          "image_path": "tarotcards/NineOfSwords.jpeg"
+        },
+        {
+          "name": "Ten of Swords",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Ten of Swords represents betrayal, endings, and loss. It signifies the need to accept and release pain to move forward.",
+          "image_path": "tarotcards/TenOfSwords.jpeg"
+        },
+        {
+          "name": "Page of Swords",
+          "number": "11",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Page of Swords symbolizes curiosity, intellect, and new ideas. It represents the eagerness to learn and explore new concepts.",
+          "image_path": "tarotcards/PageOfSwords.jpeg"
+        },
+        {
+          "name": "Knight of Swords",
+          "number": "12",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Knight of Swords represents action, haste, and determination. It signifies the pursuit of truth and the courage to confront challenges.",
+          "image_path": "tarotcards/KnightOfSwords.jpeg"
+        },
+        {
+          "name": "Queen of Swords",
+          "number": "13",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The Queen of Swords symbolizes independence, perception, and clarity. She represents the ability to see through illusions and make sound decisions.",
+          "image_path": "tarotcards/QueenOfSwords.jpeg"
+        },
+        {
+          "name": "King of Swords",
+          "number": "14",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "description": "The King of Swords represents intellect, authority, and strategic thinking. He signifies the importance of logic and fairness in decision-making.",
+          "image_path": "tarotcards/KingOfSwords.jpeg"
+        },
+        {
+          "name": "Ace of Pentacles",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Ace of Pentacles symbolizes prosperity, opportunity, and material gain. It represents the potential for new ventures and financial success.",
+          "image_path": "tarotcards/AceOfPentacles.jpeg"
+        },
+        {
+          "name": "Two of Pentacles",
+          "number": "2",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Two of Pentacles represents balance, multitasking, and adaptability. It signifies the ability to manage resources effectively.",
+          "image_path": "tarotcards/TwoOfPentacles.jpeg"
+        },
+        {
+          "name": "Three of Pentacles",
+          "number": "3",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Three of Pentacles symbolizes teamwork, collaboration, and skill. It represents the importance of working together to achieve common goals.",
+          "image_path": "tarotcards/ThreeOfPentacles.jpeg"
+        },
+        {
+          "name": "Four of Pentacles",
+          "number": "4",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Four of Pentacles represents security, stability, and control. It signifies a need to hold onto resources and protect what one has.",
+          "image_path": "tarotcards/FourOfPentacles.jpeg"
+        },
+        {
+          "name": "Five of Pentacles",
+          "number": "5",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Five of Pentacles symbolizes hardship, loss, and financial struggles. It represents the need for support and the importance of community.",
+          "image_path": "tarotcards/FiveOfPentacles.jpeg"
+        },
+        {
+          "name": "Six of Pentacles",
+          "number": "6",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Six of Pentacles represents generosity, charity, and giving. It signifies the importance of sharing wealth and helping others.",
+          "image_path": "tarotcards/SixOfPentacles.jpeg"
+        },
+        {
+          "name": "Seven of Pentacles",
+          "number": "7",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Seven of Pentacles symbolizes patience, evaluation, and long-term success. It represents the need to assess progress and make necessary adjustments.",
+          "image_path": "tarotcards/SevenOfPentacles.jpeg"
+        },
+        {
+          "name": "Eight of Pentacles",
+          "number": "8",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Eight of Pentacles represents diligence, craftsmanship, and skill development. It signifies the importance of hard work and dedication to one's craft.",
+          "image_path": "tarotcards/EightOfPentacles.jpeg"
+        },
+        {
+          "name": "Nine of Pentacles",
+          "number": "9",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Nine of Pentacles symbolizes independence, self-sufficiency, and luxury. It represents the enjoyment of the fruits of one's labor.",
+          "image_path": "tarotcards/NineOfPentacles.jpeg"
+        },
+        {
+          "name": "Ten of Pentacles",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Ten of Pentacles represents legacy, inheritance, and family ties. It signifies the importance of building a lasting foundation for future generations.",
+          "image_path": "tarotcards/TenOfPentacles.jpeg"
+        },
+        {
+          "name": "Page of Pentacles",
+          "number": "11",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Page of Pentacles symbolizes ambition, diligence, and new opportunities. It represents a desire to learn and grow in practical matters.",
+          "image_path": "tarotcards/PageOfPentacles.jpeg"
+        },
+        {
+          "name": "Knight of Pentacles",
+          "number": "12",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Knight of Pentacles represents hard work, responsibility, and reliability. He signifies the importance of being thorough and dedicated in endeavors.",
+          "image_path": "tarotcards/KnightOfPentacles.jpeg"
+        },
+        {
+          "name": "Queen of Pentacles",
+          "number": "13",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The Queen of Pentacles symbolizes nurturing, practicality, and abundance. She represents the importance of caring for oneself and others.",
+          "image_path": "tarotcards/QueenOfPentacles.jpeg"
+        },
+        {
+          "name": "King of Pentacles",
+          "number": "14",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "description": "The King of Pentacles represents wealth, stability, and success. He signifies the importance of being grounded and responsible in financial matters.",
+          "image_path": "tarotcards/KingOfPentacles.jpeg"
+        }
+      ]
+    }
